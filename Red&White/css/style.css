@@ -1,0 +1,350 @@
+
+*{
+    margin: auto;
+    padding: auto;
+}
+
+.top-bar{
+    background-color: #E31E25;
+    width:100%;
+    height:30px;
+}
+.city{
+    border: #F5F5F5 solid 1px;
+    background-color: #E31E25;
+    color: #F5F5F5;
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 600;
+    border-radius: 3px;
+    height: 23px;
+    font-size: 12px; 
+    padding: 3px;
+    margin-right: 10px;
+}
+
+.lang{
+    border: #F5F5F5 solid 1px;
+    background-color: #E31E25;
+    color: #F5F5F5;
+    border-radius: 3px;
+    height: 23px;
+    font-size: 14px;
+}
+.city1{
+    background: #F5F5F5;
+    color: #343f52;
+    font-weight: bold;
+    font-family: 'Manrope' , sans-serif;
+}
+.lang1{
+    background: #F5F5F5;
+    color: #343f52;
+    font-family: 'Manrope' , sans-serif;
+}
+.text{
+    word-spacing: 5px;
+    color: #F5F5F5;
+    text-decoration: none;
+    font-family: 'Manrope' , sans-serif;
+    font-size: 14px;
+}
+.nav{
+    text-decoration: none; 
+    font-family: 'Manrope' , sans-serif;
+    font-size: 14px;
+    color: #0f0f0f;
+    font-weight: 200;
+    margin-left: 25px;
+ }
+ nav{
+     height: 65px;
+     width: 100%;
+     background-color: #F5F5F5;
+     padding-top: 5px;
+     
+    
+ }
+ .hero-img{
+    background-image: url(../assets/images/bg.png);
+    max-width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+}
+
+.counts{
+    height: 160px;
+    background-color: #02395A;
+    padding-top: 35px;
+}
+.certi{
+    width:48px;
+}
+.fa-building{
+    font-size: 35px;   
+    color: #F5F5F5;
+}
+.fa-suitcase{
+    font-size: 35px;   
+    color: #F5F5F5;
+}
+.fa-user{
+    font-size: 35px;   
+    color: #F5F5F5;
+}
+.count-heading{
+ font-size: 30px;
+ color: #f6f4f4;
+}
+.sub-heading{
+    font-size: 18px;
+    color: #7997a9;
+}
+.course{
+    background-image:  linear-gradient(145deg, rgb(226, 232, 236), rgb(255, 255, 255));
+    height: 160;
+    width: 190;
+    border-radius: 20px;
+    background-size: auto;
+    
+}
+.course-2{
+    margin: 40px;
+}
+.corse{
+    padding-bottom: 15px;
+}
+.course-name{
+    font-family: 'manrope' , sans-serif;
+    color: #02395a;
+}
+.course-heading{
+    color: #02395a;
+    font-family: 'manrope' , sans-serif;
+    font-size: 36px;
+    padding-top: 40px;
+    font-weight: 600;
+}
+.courses{
+    background-color:  #f5f5f5;
+}
+.mentors{
+    color: #02395a;
+    font-family: 'manrope' , sans-serif;
+    font-size: 36px;
+    padding-top: 40px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+
+
+.mentors-name{
+    padding-left: 40px;
+    padding-bottom: 60px;
+   
+}
+.trust{
+    font-size: 36px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+
+}
+span{
+    color: #ff0000;
+}
+.detail{
+    color: #60697b;
+    font-family: 'manrope' , sans-serif;
+}
+.list{
+    color: #343f52;
+    font-family: 'manrope' , sans-serif;
+}
+.we-are-in{
+    font-size: 36px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.pillars{
+    padding-right:90px;
+    border-radius: 20px;
+}
+.location{
+    font-size: 24px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    padding-top: 20px;
+}
+.locatin{
+    border-radius: 20px;
+    border: #e4e5e7 solid 0.5px;
+}
+.no-of-branch{
+    font-size: 14px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    padding-bottom: 40px;
+}
+
+.name-carrer-courses{
+    color: #343f52;
+    font-size: 22px;
+    font-family: 'manrope' , sans-serif;
+
+}
+.det{
+    color: #343f52;
+    font-size: 14px;
+    font-family: 'manrope' , sans-serif;
+    text-align: justify;
+    padding-left: 50px;
+}
+button{
+    background: #02395a;
+    color: #F5F5F5;
+    font-family: 'manrope' , sans-serif;
+    width: 140px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+.career-courses{
+    font-size: 32px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    padding-top: 50px;
+    padding-bottom: 40px;
+  
+}
+.gim{
+    border: #e4e5e7 solid 0.5px;
+    border-radius: 30px;
+    text-align: center;
+}
+.fs-dev{
+    border: #e4e5e7 solid 0.5px;
+    border-radius: 30px;
+    text-align: center;
+}
+.master{
+    font-size: 18px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    padding-top: 20px;
+   
+}
+.trend{
+    font-size: 24px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    padding-top: 20px;
+    
+}
+.trend-content{
+    border-radius: 10px;
+    width: 240;
+}
+.trends{
+    border-radius: 10px;
+    border: #e4e5e7 solid 0.5px;
+}
+.locat{
+    border-radius: 10px;
+}
+.about-infra{
+        font-size: 36px;
+        font-family: 'manrope' , sans-serif;
+        color: #343f52; 
+        margin-bottom: 10px;
+       line-height: 40px;
+}
+.about-infra1{
+    
+    font-family: 'manrope' , sans-serif;
+    color: #343f52; 
+    line-height: 25px;
+}
+    
+.infrastructure{
+    margin-top: 60px;
+    
+    background-color: #F5F5F5;
+}
+.rewiew-sec{
+    padding-top: 40px;
+    border-radius: 10px;
+    border: #e4e5e7 solid 1px;
+    max-width: 1280px;
+    max-height: 900px;
+}
+.rewiver-img{
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.rewiewer-name{
+    font-family: 'manrope' , sans-serif;
+    color: #343f52; 
+    font-weight: 600;
+}
+
+.rewiew{
+    padding-top: 30px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    text-align: center; 
+    padding: 30px 50px 20px 50px;
+}
+.value{
+    padding: 40px;
+    font-family: 'manrope' , sans-serif;
+    color: #343f52;
+    text-align: center; 
+    font-size: 36px;
+}
+.fa-star{
+    color: rgb(255, 174, 0);
+    font-size: 14px;
+}
+.branches-locat{
+    text-decoration: none;
+}
+.footer{
+    max-width: 100%;
+    min-height: max-content;
+    background-color: #212529;
+    color: #f5f5f5;
+    font-family: 'manrope', sans-serif;
+    padding-top: 35px;
+    margin-top: 50px;
+    padding-bottom: 90px;
+}
+.foot{
+    text-decoration: none;
+    color: #f5f5f5;
+    padding: 10px;
+}
+.our-branches{
+    list-style: none;
+}
+.fa-new{
+    font-size: 12px;
+}
+.fa-envelope{
+    font-size: 12px; 
+}
+.fa-address-card{
+    font-size: 12px; 
+    
+}
+.copy{
+    width: 100%;
+    background-color: #60697b;
+    height: 50px;
+    color: #ffffff;
+    font-family: 'manrope', sans-serif;
+    padding-top: 10px;
+}
